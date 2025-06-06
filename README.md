@@ -11,4 +11,5 @@ Python Statistical Data Analysis
 
 ##### 4. Analyzing the difference in the mean monthly proportion of deaths before and after the introduction of handwashing using all of the data and calculating a 95% confidence interval. 
 
+<img width="825" alt="Screenshot 2025-06-05 at 8 22 33 PM" src="https://github.com/user-attachments/assets/ccb4b07e-00c6-494f-a2f1-dd4293866cc1" />
 
